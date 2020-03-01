@@ -1,4 +1,73 @@
-.nav-bar{
+body{
+    background-color:olive;
+    position: relative; 
+    background-size: cover;
+    
+}
+
+h1{
+    float: left;
     background-color: black;
-    opacity: .90;
+    width: 200px;
+    height: 70px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+h2{
+    background-color: black;
+    opacity: .60;
+    height: 100px;
+   
+}
+ ul li {
+
+display: inline-block;
+padding: 50px;
+color: black;
+
+}
+a{
+    text-decoration: none;
+    color:saddlebrown;
+    font-weight: 600;
+}
+
+
+h3{
+    
+    background-color: black;
+    width: 960px;
+    height: 450px;
+    margin-left: 100px;
+    margin-top: 15px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+h4{
+    
+    background-color: black;
+    width: 300px;
+    height: 375px;
+    padding: 20px;
+
+}
+
+h5{
+    
+    background-color: black;
+    width: 300px;
+    height: 375px;
+    padding: 20px;
+}
+h6{
+    
+    background-color: black;
+    width: 300px;
+    height: 375px;
+    padding: 20px;
+}
+section{
+    float: left;
 }
